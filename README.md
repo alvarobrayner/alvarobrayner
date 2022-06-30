@@ -28,8 +28,6 @@ PT: _Atualmente me encontro em transição de carreira para a área de tecnologi
   <img align="center" alt="alvaro-vsc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 <p>
 
-![Snake animation](https://github.com/alvarobrayner/alvarobrayner/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   <a href="https://github.com/alvarobrayner">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=alvarobrayner&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
