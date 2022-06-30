@@ -11,7 +11,7 @@ PT: _Atualmente me encontro em transição de carreira para a área de tecnologi
 - Data structures in Python, Git, Version Controls ✅
 - Configuration Management ✅
 - Java (Knowledge of Object Oriented Paradigms, Java concepts, building web solutions using Spring boot) ✅
-- Practical experience in challenges at CESAR: https://github.com/next-cesar-school/next20221-exp-pratica-t01 ✅
+- Practical experience in challenges at CESAR ✅
 
 ##
 
